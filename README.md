@@ -1,3 +1,9 @@
+# 基于east文本检测模型的训练和应用
+- 公司实习项目,利用east检测快递上的文字
+- 没有上传模型文件，保密需要
+- 基于以下实现做的改进，以下说明是本项目的参考内容
+- 留待整理
+
 # AdvancedEAST
 AdvancedEAST is an algorithm used for Scene image text detect,
 which is primarily based on
